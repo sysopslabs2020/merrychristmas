@@ -1,2 +1,2 @@
 # merrychristmas
-bash script merry christmas
+## bash script that wish you a Merry Christmas
